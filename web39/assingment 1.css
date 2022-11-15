@@ -1,0 +1,76 @@
+.body{
+margin: 50px
+
+}
+
+.img{
+    margin-left: 10px;
+    
+}
+
+.sithum{
+    margin-left: 210px;
+    margin-top: -150px;
+    margin-bottom: 120px;
+    font-size: 50px;
+    font-style: italic;
+    font-family: inherit;
+    
+  }
+ 
+  
+ 
+  .sithum2{
+    margin-left: 50px;
+  }
+
+  .h2{
+     margin: 0 50px 0 0;
+
+  }
+  div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+
+  .grocery{
+    margin-left: 500px;
+    margin-top: -550px;
+    margin-bottom: 650px;
+    font-size: 50px;
+    font-style: italic;
+    font-family: inherit;
+  }
+
+ th,td{
+  color: white;
+  padding: 35px;
+  word-spacing: 15px;
+ }
+
+ th,td{
+  font-size: 30px;
+ }
+
+ footer {
+  text-align: center;
+  padding: 3px;
+  background-color: black;
+  color: rgb(241, 234, 234);
+  font-size: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  margin-top: 50px;
+  
+}
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;}
